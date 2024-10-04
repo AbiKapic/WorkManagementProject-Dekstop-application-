@@ -15,5 +15,5 @@ Simplistic desktop application for managing work projects with users and admin w
 - After running QT ( see it in screenshots) you can test it out with loging and signing up
 - Set up or check who is admin, then admin window will be approachable
 
-##License 
+## License 
 - LGPL 3.0 version
