@@ -1,9 +1,12 @@
 # WorkManagementProject
 Simplistic desktop application for managing work projects with users and admin with integrated online chat between colleagues
 
+## Initial look
+![1](https://github.com/user-attachments/assets/5c7c31d7-09c2-4b05-9213-f7ec1d2b35a7)
 ## Technologies Used
 - C++
 - SQLITE
+
 - QT 6.7.3
 
 ## Instalation
